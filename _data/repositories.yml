@@ -1,10 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hagenmek
+  #- alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
+  - hagenmek/al-folio
+  - hagenmek/UiA_GreenCrane_TestBed
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
