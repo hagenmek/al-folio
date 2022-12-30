@@ -5,8 +5,8 @@ github_users:
 github_repos:
   - hagenmek/al-folio
   - hagenmek/UiA_GreenCrane_TestBed
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  #- jekyll/jekyll
+  #- jquery/jquery
+  #- FortAwesome/Font-Awesome
+  #- jpswalsh/academicons
+  #- mathjax/MathJax
