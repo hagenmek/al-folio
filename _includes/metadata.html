@@ -176,8 +176,8 @@
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.researchgate_id -%}
-    {%- capture link -%}https://www.researchgate.net/profile/{{ site.researchgate_id }}{%- endcapture -%}
-    {%- assign sameaslinks = sameaslinks | push: link -%}
+        {%- capture link -%}https://www.researchgate.net/profile/{{ site.researchgate_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if sameaslinks != blank -%}
         {%- assign sameaslinks = sameaslinks | split: "" -%}
