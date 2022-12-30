@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uia.no/'>University of Agder</a>
+subtitle: Asscoiate Professor in Mechatronics at the <a href='https://www.uia.no/'>University of Agder</a>
 
 profile:
   align: right
