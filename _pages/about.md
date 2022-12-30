@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Asscoiate Professor in Mechatronics at the <a href='https://www.uia.no/en'>University of Agder</a>
 
