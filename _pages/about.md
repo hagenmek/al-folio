@@ -6,7 +6,7 @@ subtitle: Asscoiate Professor in Mechatronics at the <a href='https://www.uia.no
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>☎️ +47 920 13 462</p>
