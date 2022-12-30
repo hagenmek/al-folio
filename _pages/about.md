@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>☎️+47 920 13 462</p>
-    <p>📧hagenmek@hotmail.com</p>
-
+    <p>☎️ +47 920 13 462</p>
+    <p>📧 hagenmek@hotmail.com</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
