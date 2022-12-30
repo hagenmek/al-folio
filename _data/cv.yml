@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Daniel Hagen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 25 February 1988
     - name: Languages
-      value: English, German
+      value: Norwegian, English
 
 - title: Education
   type: time_table
