@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: The research projects I'm involed int and some of my hoppy projects.
+description: The research projects I'm involved in and some of my hoppy projects.
 nav: true
 nav_order: 3
 display_categories: [Research, Hobby]
