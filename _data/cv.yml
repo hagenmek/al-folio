@@ -12,21 +12,34 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Agder, Grimstad, Norway
+      year: 2020
       description:
-        - Description 1.
+        - Engineering Sciences with Specialization in Mechatronics.
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc
+      institution: University of Agder, Grimstad, Norway
+      institution: Vorarlberg University of Applied Science, Dornbirn, Austria
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Double degree programme.
+        - Engineering Sciences with Specialization in Mechatronics.
+    - title: BSc
+      institution: University of Agder, Grimstad, Norway
+      year: 2012
+      description:
+        - Engineering Sciences with Specialization in Mechatronics.
+    - title: Trade certificate 
+      institution: Vest-Agder Fylkeskommune, Norway
+      year: 2009
+      description:
+        - Automation Mechanic.
+
+
 
 - title: Experience
   type: time_table
