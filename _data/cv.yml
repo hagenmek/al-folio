@@ -41,7 +41,7 @@
 
 - title: Experience
   type: time_table
-  - title: Academia
+  - subtitle: Academia
   contents:
     - title: Associate Professor in Mechatronics
       institution: University of Agder, Grimstad, Norway
