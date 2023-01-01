@@ -41,8 +41,9 @@
 
 - title: Experience
   type: time_table
-  - title: Test
+ 
   contents:
+    - title: Test
     - title: Associate Professor in Mechatronics
       institution: University of Agder, Grimstad, Norway
       year: 2021 - 
