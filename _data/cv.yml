@@ -42,29 +42,29 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Academia
-      - title: Associate Professor in Mechatronics
-        institution: University of Agder, Grimstad, Norway
-        year: 2021 - 
-        description:
-          - Description 1.
-          - Description 2.
-          - title: Department of Engineering Sciences.
-            contents:
-              - Sub-description 1.
-              - Sub-description 2.
-      - title: Senior Technical Advisor (part-time)
-        institution: MotionTech AS, Grimstad, Norway
-        year: 2022 - 
-        description:
-          - Description 1.
-          - Description 2.
-      - title: Senior R&D Engineer
-        institution: Red Rock AS, Kristiansand, Norway
-        year: 2020 - 2022
-        description:
-          - Description 1.
-          - Description 2.
+  - title: Academia
+    - title: Associate Professor in Mechatronics
+      institution: University of Agder, Grimstad, Norway
+      year: 2021 - 
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Department of Engineering Sciences.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Senior Technical Advisor (part-time)
+      institution: MotionTech AS, Grimstad, Norway
+      year: 2022 - 
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Senior R&D Engineer
+      institution: Red Rock AS, Kristiansand, Norway
+      year: 2020 - 2022
+      description:
+        - Description 1.
+        - Description 2.
     - title: Industry
     - title: Military
 
