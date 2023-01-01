@@ -40,8 +40,8 @@
         - Automation Mechanic.
 
 - title: Experience
-  type: time_table
   - subtitle: Academia
+  type: time_table
   contents:
     - title: Associate Professor in Mechatronics
       institution: University of Agder, Grimstad, Norway
