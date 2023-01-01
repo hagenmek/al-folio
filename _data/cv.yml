@@ -42,7 +42,7 @@
 - title: Experience
   type: time_table
   contents:
-  - title: Academia
+    - title: Academia
     - title: Associate Professor in Mechatronics
       institution: University of Agder, Grimstad, Norway
       year: 2021 - 
