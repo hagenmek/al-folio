@@ -44,31 +44,45 @@
   contents:
     - subtitle: Academia
     - title: Associate Professor in Mechatronics
-      institution: University of Agder, Grimstad, Norway
+      institution: Department of Engineering Sciences, University of Agder, Grimstad, Norway
       year: 2021 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Department of Engineering Sciences.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Researcher
-      institution: University of Agder, Grimstad, Norway
+        - Full-time since 01.03.2022
+        - Part-time between 01.05.2021-28.02.2022
+    - title: Researcher (part-time)
+      institution: Department of Engineering Sciences, University of Agder, Grimstad, Norway
       year: 2021 
       description:
         - Three month part-time position in the Mechatronics Motion Labratory. 
         - Experimental work releated to my PhD test-setup resulting in one conferance proceeding.
+
     - subtitle: Industry  
     - title: Senior Technical Advisor (part-time)
       institution: MotionTech AS, Grimstad, Norway
       year: 2022 - 
       description:
         - Part-time position.
-
     - title: Senior R&D Engineer
       institution: Red Rock AS, Kristiansand, Norway
       year: 2020 - 2022
+      description:
+        - Description 1.
+        - Description 2.
+    - title: System Engineer
+      institution: Cameron Sense AS (Schlumberger), Kristiansand, Norway
+      year: 2020
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Hydraulic Engineer (part-time)
+      institution: Cameron Sense AS (Schlumberger), Kristiansand, Norway
+      year: 2016 - 2020
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Field Service Engineer – Control Systems
+      institution: Cameron Sense AS, Kristiansand, Norway
+      year: 2016 - 2020
       description:
         - Description 1.
         - Description 2.
