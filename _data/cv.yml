@@ -53,24 +53,20 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-
     - title: Senior Technical Advisor (part-time)
       institution: MotionTech AS, Grimstad, Norway
       year: 2022 - 
       description:
         - Description 1.
         - Description 2.
-
     - title: Senior R&D Engineer
       institution: Red Rock AS, Kristiansand, Norway
       year: 2020 - 2022
       description:
         - Description 1.
         - Description 2.
-  
-  - title: Industry
-
-  - title: Military
+    - title: Industry
+    - title: Military
 
 - title: Open Source Projects
   type: time_table
