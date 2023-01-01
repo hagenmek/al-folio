@@ -93,8 +93,14 @@
         - Description 1.
         - Description 2.
 
-
     - subtitle: Military
+    - title: Reserver Officer
+      institution: Agder and Rogaland Home Guard District (HG-08), Norwegian Armed Forces, Norway
+      year: 2009 - 
+      description:
+        - Various positions as Squad Leader, Platoon Leader, Company Commander, Operation Officer
+        - Description 2.
+
 
 - title: Open Source Projects
   type: time_table
