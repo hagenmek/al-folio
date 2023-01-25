@@ -20,6 +20,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br>
+<h2>Work:</h2>
+<ul style="list-style-type: square;">
+  <li>Associate Professor in Mechatronics | <a href='https://www.uia.no/en'>University of Agder</a></li>
+  <li>Senior Technical Advisor | <a href='https://motiontech.no'>MotionTech AS</a></li>
+</ul>
+
 <strong>Professional Appointments:</strong>
 <p>Associate Professor in Mechatronics | <a href='https://www.uia.no/en'>University of Agder</a></p>
 <p>Senior Technical Advisor | <a href='https://motiontech.no'>MotionTech AS</a></p>
