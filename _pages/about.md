@@ -30,9 +30,17 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 <h6>Field of competence and interests:</h6>
 <ul style="list-style-type: square;">
-  <li>Roboitics and automation</li>
+  <li>Systems Engineering</li>
+  <li>Dynamical modeling, simulation, and optimization of Mechatronic systems</li>
+  <li>Model-based design, implementation, and testing of control algorithms</li>
+  <li>Fluid power technology and control</li>
+  <li>Electric drives and control</li>
+  <li>Robotics and automation</li>
   <li>Autonmous systems</li>
+  <li>Digital twins</li>
   <li>Real-time systems</li>
+  <li>Machin vision and perception</li>
+  <li>Fluid power technology and control</li>
 </ul>
 
 <!--- Daniel is a curious, ambitious, conscientious multidisciplinary engineer and a reserve officer with a passion for Mechatronics, innovation, R&D, and team leadership. After completing compulsory military service, he has gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate and successfully defended his Ph.D. degree in 2020. 
