@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle1: <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics Wizard</a>,<strong>Ph.D.</strong>
+subtitle1: <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics Wizard</a>, <strong>Ph.D.</strong>
 <!--- subtitle1: Associate <strong>Professor</strong> in  <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics</a> at the <a href='https://www.uia.no/en'>University of Agder</a> -->
 
 
@@ -19,10 +19,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<strong>Professional Appointments:</strong>
+<p>Associate Professor in Mechatronics at the <a href='https://www.uia.no/en'>University of Agder</a></p>
+<p>Senior Technical Advisor at <a href='https://motiontech.no'>MotionTech AS</a></p>
 
-Associate Professor in Mechatronics at the <a href='https://www.uia.no/en'>University of Agder</a>
-
-Senior Technical Advisor at <a href='https://motiontech.no'>MotionTech AS</a>
+<strong>Research Interests:</strong>
+<p>Test</p>
 
 <!--- Daniel is a curious, ambitious, conscientious multidisciplinary engineer and a reserve officer with a passion for Mechatronics, innovation, R&D, and team leadership. After completing compulsory military service, he has gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate and successfully defended his Ph.D. degree in 2020. 
 
