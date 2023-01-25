@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 <br>
 <strong>Professional Appointments:</strong>
-<p>Associate Professor in Mechatronics at the <a href='https://www.uia.no/en'>University of Agder</a></p>
-<p>Senior Technical Advisor at <a href='https://motiontech.no'>MotionTech AS</a></p>
+<p>Associate Professor in Mechatronics | <a href='https://www.uia.no/en'>University of Agder</a></p>
+<p>Senior Technical Advisor | <a href='https://motiontech.no'>MotionTech AS</a></p>
 
 <strong>Society:</strong>
-<p>Leader of the <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></p>
+<p>Leader and co-founder | <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></p>
 
 <strong>Research:</strong>
 <p>Test</p>
