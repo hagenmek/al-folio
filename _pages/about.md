@@ -12,8 +12,8 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>☎️ +47 413 24 787</p>
-    <p>📧 danielh@uia.no</p>
+    <p>☎️ +47 920 13 462</p>
+    <p>📧 info@drhagen.science</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
