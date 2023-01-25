@@ -19,20 +19,20 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<br>
-<h5>Work:</h5>
+<h6>Work:</h6>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics | <a href='https://www.uia.no/en'>University of Agder</a></li>
   <li>Senior Technical Advisor | <a href='https://motiontech.no'>MotionTech AS</a></li>
 </ul>
-<h5>Society:</h5>
+<h6>Society:</h6>
 <ul style="list-style-type: square;">
   <li>Leader and co-founder | <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
 </ul>
-<h5>Research:</h5>
+<h6>Research:</h6>
 <ul style="list-style-type: square;">
-  <li>Test1</li>
-  <li>Test2</li>
+  <li>Roboitics and automation</li>
+  <li>Autonmous systems</li>
+  <li>Real-time systems</li>
 </ul>
 
 <!--- Daniel is a curious, ambitious, conscientious multidisciplinary engineer and a reserve officer with a passion for Mechatronics, innovation, R&D, and team leadership. After completing compulsory military service, he has gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate and successfully defended his Ph.D. degree in 2020. 
