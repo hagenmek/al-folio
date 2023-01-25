@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle1: <strong>Mechatronics Wizard</strong>, PhD
+subtitle1: <strong>Mechatronics Wizard</strong>, Ph.D.
 <!--- subtitle1: Associate <strong>Professor</strong> in  <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics</a> at the <a href='https://www.uia.no/en'>University of Agder</a> -->
 
 
