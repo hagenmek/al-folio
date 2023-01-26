@@ -17,16 +17,16 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<h6>Work:</h6>
+<h6>💼 Work:</h6>
 <ul style="list-style-type: square;">
-  <li>Associate Professor in Mechatronics | <a href='https://www.uia.no/en'>University of Agder</a></li>
-  <li>Senior Technical Advisor | <a href='https://motiontech.no'>MotionTech AS</a></li>
+  <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/en'>University of Agder</a></li>
+  <li>Senior Technical Advisor <strong>|</strong> <a href='https://motiontech.no'>MotionTech AS</a></li>
 </ul>
-<h6>Society:</h6>
+<h6>🍻 Society:</h6>
 <ul style="list-style-type: square;">
-  <li>Leader and co-founder | <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
+  <li>Leader and co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
 </ul>
-<h6>Field of competence and interests:</h6>
+<h6>⚙️ Field of competence and interests:</h6>
 <ul style="list-style-type: square;">
   <li>Robotics and automation</li>
   <li>Autonmous systems</li>
@@ -39,7 +39,9 @@ social: true  # includes social icons at the bottom of the page
   <li>Model-based design</li>
   <li>Fluid power technology and control</li>
   <li>Electric drives and control</li>
-</ul>
+</ul> 
+
+
 
 <!--- Daniel is a curious, ambitious, conscientious multidisciplinary engineer and a reserve officer with a passion for Mechatronics, innovation, R&D, and team leadership. After completing compulsory military service, he has gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate and successfully defended his Ph.D. degree in 2020. 
 
