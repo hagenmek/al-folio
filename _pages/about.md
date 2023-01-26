@@ -10,14 +10,11 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>☎️ +47 920 13 462</p>
     <p>📧 info@drhagen.science</p>
-    <br>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<br>
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
@@ -27,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 <ul style="list-style-type: square;">
   <li>Leader and Co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
 </ul>
-<h6>⚙️ <strong>Field of Competence and Interests:</strong></h6>
+<h6>🎒 <strong>Field of Competence and Interests:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Electro-hydraulic Actuation Systems</li>
   <li>Robotics <strong>|</strong> <a href='https://www.ros.org/'>ROS</a></li>
