@@ -29,17 +29,15 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 <h6>⚙️ <strong>Field of competence and interests:</strong></h6>
 <ul style="list-style-type: square;">
+  <li>Electro-hydraulic actuation systems</li>
   <li>Robotics and automation <strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
   <li>Autonmous systems <strong>|</strong> NAV2</li>
   <li>Digital twins</li>
   <li>Real-time control systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
   <li>Machine vision and perception</li>
-  <li>Applied AI</li>
+  <li>Applied AI <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>                     
   <li>Systems Engineering</li>
-  <li>Dynamical modeling, simulation, and optimization</li>
-  <li>Model-based design</li>
-  <li>Fluid power technology and control</li>
-  <li>Electric drives and control</li>
+  <li>Model-based design and optimization <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</li>
 </ul> 
 
 
