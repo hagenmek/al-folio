@@ -34,7 +34,7 @@ social: true  # includes social icons at the bottom of the page
   <li>Digital Twins</li>
   <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
   <li>Machine Vision and Perception</li>
-  <li>Applied AI <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>                     
+  <li>Applied AI/ML <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>                     
   <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</a></li>
   <li>Simulation-based Optimization</li>
 </ul> 
