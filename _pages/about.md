@@ -15,6 +15,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<br>
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
@@ -29,7 +30,7 @@ social: true  # includes social icons at the bottom of the page
   <li>Electro-hydraulic Actuation Systems</li>
   <li>Robotics <strong>|</strong> <a href='https://www.ros.org/'>ROS</a></li>
   <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'> TwinCAT</a></li>
-  <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, Python, C++, Rust</a></li>
+  <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, C++, MATLAB, Python, Rust</a></li>
   <li>Autonomous Systems <strong>|</strong> <a href='https://www.uia.no/en'>Sense-Think-Act</a></li>
   <li>Digital Twins</li>
   <li>Machine Vision and Perception</li>
