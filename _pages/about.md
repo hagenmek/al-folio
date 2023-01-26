@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Electro-hydraulic Actuation Systems</li>
+  <li>Electro-hydraulic Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Fluid power, Electric drives, Motion control</a></li>
   <li>Robotics <strong>|</strong> <a href='https://www.ros.org/'>ROS</a></li>
   <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'> TwinCAT</a></li>
   <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, C++, MATLAB, Python, Rust</a></li>
