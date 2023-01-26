@@ -32,7 +32,7 @@ social: true  # includes social icons at the bottom of the page
   <li>Robotics and automation <strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
   <li>Autonmous systems <strong>|</strong> NAV2</li>
   <li>Digital twins</li>
-  <li>Real-time control systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</li>
+  <li>Real-time control systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
   <li>Machine vision and perception</li>
   <li>Applied AI</li>
   <li>Systems Engineering</li>
