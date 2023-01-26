@@ -35,11 +35,9 @@ social: true  # includes social icons at the bottom of the page
   <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
   <li>Machine Vision and Perception</li>
   <li>Applied AI <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>                     
-  <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</li>
+  <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</a></li>
   <li>Simulation-based Optimization</li>
 </ul> 
-
-
 
 <!--- Daniel is a curious, ambitious, conscientious multidisciplinary engineer and a reserve officer with a passion for Mechatronics, innovation, R&D, and team leadership. After completing compulsory military service, he has gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate and successfully defended his Ph.D. degree in 2020. 
 
