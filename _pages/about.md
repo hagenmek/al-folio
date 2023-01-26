@@ -12,7 +12,7 @@ profile:
   address: >
     <p>☎️ +47 920 13 462</p>
     <p>📧 info@drhagen.science</p>
-
+    <br>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -27,14 +27,15 @@ social: true  # includes social icons at the bottom of the page
 <ul style="list-style-type: square;">
   <li>Leader and Co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
 </ul>
-<h6>⚙️ <strong>Field of competence and interests:</strong></h6>
+<h6>⚙️ <strong>Field of Competence and Interests:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Electro-hydraulic Actuation Systems</li>
   <li>Autonomous Robotics <strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
   <li>Digital Twins</li>
   <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
   <li>Machine Vision and Perception</li>
-  <li>Applied AI/ML <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>                     
+  <li>Applied AI/ML <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>      
+  <li>Systems Engineering</li>               
   <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</a></li>
   <li>Simulation-based Optimization</li>
 </ul> 
