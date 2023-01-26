@@ -24,7 +24,6 @@ social: true  # includes social icons at the bottom of the page
 <h6>🍻 <strong>Society:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Leader and Co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
-  <li>Hard-working St. John's Apprentice <strong>|</strong> <a href='https://frimurer.no/english'>The Norwegian Order of Freemasons</a></li>
 </ul>
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
