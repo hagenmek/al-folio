@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/en'>University of Agder</a></li>
+  <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
   <li>Senior Technical Advisor <strong>|</strong> <a href='https://motiontech.no'>MotionTech AS</a></li>
 </ul>
 <h6>🍻 <strong>Society:</strong></h6>
@@ -29,15 +29,14 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 <h6>⚙️ <strong>Field of competence and interests:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Electro-hydraulic actuation systems</li>
-  <li>Robotics and automation <strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
-  <li>Autonmous systems <strong>|</strong> NAV2</li>
-  <li>Digital twins</li>
-  <li>Real-time control systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
-  <li>Machine vision and perception</li>
+  <li>Electro-Hydraulic Actuation Systems</li>
+  <li>Autonomous Robotics<strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
+  <li>Digital Twins</li>
+  <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
+  <li>Machine Vision and Perception</li>
   <li>Applied AI <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>                     
-  <li>Systems Engineering</li>
-  <li>Model-based design and optimization <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</li>
+  <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</li>
+  <li>Simulation-based Optimization</li>
 </ul> 
 
 
