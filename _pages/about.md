@@ -25,12 +25,12 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 <h6>🍻 <strong>Society:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Leader and co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
+  <li>Leader and Co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
 </ul>
 <h6>⚙️ <strong>Field of competence and interests:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Electro-Hydraulic Actuation Systems</li>
-  <li>Autonomous Robotics<strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
+  <li>Electro-hydraulic Actuation Systems</li>
+  <li>Autonomous Robotics <strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
   <li>Digital Twins</li>
   <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
   <li>Machine Vision and Perception</li>
