@@ -30,10 +30,13 @@ social: true  # includes social icons at the bottom of the page
 <h6>⚙️ <strong>Field of Competence and Interests:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Electro-hydraulic Actuation Systems</li>
-  <li>Autonomous Robotics <strong>|</strong> <a href='https://www.uia.no/en'>ROS</a></li>
+  <li>Robotics <strong>|</strong> <a href='https://www.ros.org/'>ROS</a></li>
+  <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'> TwinCAT</a></li>
+  <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, Python, C++, Rust</a></li>
+  <li>Autonomous Systems <strong>|</strong> <a href='https://www.uia.no/en'>Sense-Think-Act</a></li>
   <li>Digital Twins</li>
-  <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.uia.no/en'>Beckhoff TwinCAT</a></li>
   <li>Machine Vision and Perception</li>
+  <li>Sensor Fusion</li>
   <li>Applied AI/ML <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>      
   <li>Systems Engineering</li>               
   <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</a></li>
