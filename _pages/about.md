@@ -25,6 +25,15 @@ social: true  # includes social icons at the bottom of the page
 <ul style="list-style-type: square;">
   <li>Leader and Co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
 </ul>
+<h6>🔬 <strong>Research area:</strong></h6>
+<ul style="list-style-type: square;">
+  <li>Intelligent Mechatronics</li>
+    <ul style="list-style-type: circle;">
+      <li>Perception <strong>|</strong> <a href='https://www.ros.org/'>Real-time Localization and Mapping</a></li>
+      <li>Autonmous Control <strong>|</strong> <a href='https://www.ros.org/'>Real-time Motion Planning</a></li></li>
+      <li>Applied AI/ML</li>
+    </ul>
+</ul>
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Electro-hydraulic Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Fluid power, Electric drives, Motion control</a></li>
