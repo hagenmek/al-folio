@@ -39,11 +39,16 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
       <li>Autonmous Diagnostics</li>
     </ul>
 </ul>
-<h6>👨‍🏫 <strong>Teaching:</strong></h6>
+<h6>👨‍🏫 <strong>Teaching:</strong></h6> 
 <ul style="list-style-type: square;">
-  <li>Robotics and Instrumentation <strong>|</strong> <a href='https://nsom.no'>Autonomous Robots</a></li>
-  <li>Programming for Intelligent Robotics and Industrial systems <strong>|</strong> <a href='https://nsom.no'>ROS (C++, Python), TwinCAT (PLC-Structured Text)</a></li>
-</ul>
+  <li><a href='https://www.uia.no/en/studieplaner/programme/MASTMEK'>Master's Programme in Mechatronics</a></li>
+    <ul style="list-style-type: circle;">
+      <li>Introduction to Autonmous Robots</li>
+      <li>Programming for Intelligent Robotics and Industrial systems</li>
+      <li>Design of Industrial Mechatronic Systems</li> 
+      <li>Advanced Robotics</li> 
+    </ul>
+</ul>  
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Electro-hydraulic Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Fluid power, Electric drives, Motion control</a></li>
