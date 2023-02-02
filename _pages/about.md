@@ -34,7 +34,8 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
       <li>Machine Vision</li>
       <li>Perception</li>
       <li>Real-time Localization and 3D Mapping</li>
-      <li>Autonmous Motion Control and Navigation</li>
+      <li>Motion Planning</li>
+      <li>Autonmous Navigation and Motion Control</li>
       <li>Applied AI/ML</li>
       <li>Autonmous Diagnostics</li>
     </ul>
