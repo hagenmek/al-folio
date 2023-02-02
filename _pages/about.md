@@ -47,9 +47,10 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Electro-hydraulic Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Fluid power, Electric drives, Motion control</a></li>
-  <li>Robotics <strong>|</strong> <a href='https://www.ros.org/'>ROS</a></li>
-  <li>Real-time Control Systems <strong>|</strong>  <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'> TwinCAT</a></li>
-  <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, C++, MATLAB, Python, Rust</a></li>
+  <li>Robotics and Automation <strong>|</strong> <a href='https://www.ros.org/'>Mobile Robots and Manipulators</a></li>
+  <li>Offshore Lifting and Load-handling Equipment <strong>|</strong> <a href='https://www.ros.org/'>3D Motion Compensation</a></li>
+  <li>Real-time Embedded Systems and Communications <strong>|</strong>  <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'> TwinCAT and EtherCAT</a></li>
+  <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, ROS2, C++, MATLAB, Python, Rust</a></li>
   <li>Autonomous Systems <strong>|</strong> <a href='https://www.uia.no/en'>Sense-Think-Act</a></li>
   <li>Digital Twins</li>
   <li>Machine Vision and Perception</li>
