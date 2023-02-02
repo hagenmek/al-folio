@@ -32,10 +32,10 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
       <li>Development of Digital Tools for Automated Design</li>
       <li>Development of Digital Twins</li>
       <li>Machine Vision</li>
-      <li>Applied AI/ML</li>
       <li>Perception</li>
       <li>Real-time Localization and 3D Mapping</li>
       <li>Autonmous Motion Control and Navigation</li>
+      <li>Applied AI/ML</li>
       <li>Autonmous Diagnostics</li>
     </ul>
 </ul>
