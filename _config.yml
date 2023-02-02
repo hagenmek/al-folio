@@ -27,7 +27,6 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 # code highlighter theme
-highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
@@ -114,7 +113,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Intelligent Mechatronics # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A blog about my work dedicated to mechatronics 
+blog_description: A blog about my work dedicated to bridging the gap between Industrial Mechatronics and Intelligent Systems research 
 
 # Pagination
 pagination:
