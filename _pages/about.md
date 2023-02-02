@@ -29,9 +29,13 @@ social: true  # includes social icons at the bottom of the page
 <ul style="list-style-type: square;">
   <li>Intelligent Mechatronics</li>
     <ul style="list-style-type: circle;">
-      <li>Perception <strong>|</strong> <a href='https://www.ros.org/'>Real-time Localization and Mapping</a></li>
-      <li>Autonmous Control <strong>|</strong> <a href='https://www.ros.org/'>Real-time Motion Planning</a></li></li>
-      <li>Applied AI/ML</li>
+      <li>Automated Design of Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Simulation-based Optimization</a></li>
+      <li>Development of Digital Twins for Optimal Operation<strong>|</strong> <a href='https://www.ros.org/'>Applied AI/ML</a></li>
+      <li>Machine Vision <strong>|</strong> <a href='https://www.ros.org/'>Motion Tracking, Position Estimation</a></li>
+      <li>Applied AI/ML <strong>|</strong> <a href='https://www.ros.org/'>Object-detection</a></li>
+      <li>Perception <strong>|</strong> <a href='https://www.ros.org/'>Real-time Localization and 3D Mapping</a></li>
+      <li>Autonmous Control/Navigation<strong>|</strong> <a href='https://www.ros.org/'>Real-time Motion Planning in 3D</a></li>
+      <li>Autonmous Diagnostics <strong>|</strong> <a href='https://www.ros.org/'>Applied AI/ML</a></li>
     </ul>
 </ul>
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
