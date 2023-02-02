@@ -25,7 +25,7 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 <ul style="list-style-type: square;">
   <li>Leader and Co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
 </ul>
-<h6>🔬 <strong>Research area:</strong></h6>
+<h6>🔬 <strong>Research:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Intelligent Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>Sense-Think-Act</a></li>
     <ul style="list-style-type: circle;">
