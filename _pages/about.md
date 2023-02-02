@@ -29,15 +29,21 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 <ul style="list-style-type: square;">
   <li>Intelligent Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>Sense-Think-Act</a></li>
     <ul style="list-style-type: circle;">
-      <li>Automated Design of Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Simulation-based Optimization</a></li>
-      <li>Development of Digital Twins for Optimal Operation<strong>|</strong> <a href='https://www.ros.org/'>Applied AI/ML</a></li>
-      <li>Machine Vision <strong>|</strong> <a href='https://www.ros.org/'>Motion Tracking, Position Estimation</a></li>
-      <li>Applied AI/ML <strong>|</strong> <a href='https://www.ros.org/'>Object-detection</a></li>
-      <li>Perception <strong>|</strong> <a href='https://www.ros.org/'>Real-time Localization and 3D Mapping</a></li>
-      <li>Autonmous Control/Navigation<strong>|</strong> <a href='https://www.ros.org/'>Real-time Motion Planning in 3D</a></li>
-      <li>Autonmous Diagnostics <strong>|</strong> <a href='https://www.ros.org/'>Applied AI/ML</a></li>
+      <li>Development of Digital Tools for Automated Design</li>
+      <li>Development of Digital Twins</li>
+      <li>Machine Vision</li>
+      <li>Applied AI/ML</li>
+      <li>Perception</li>
+      <li>Real-time Localization and 3D Mapping</li>
+      <li>Autonmous Motion Control and Navigation</a></li>
+      <li>Autonmous Diagnostics</li>
     </ul>
 </ul>
+<h6>👨‍🏫 <strong>Teaching:</strong></h6>
+<ul style="list-style-type: square;">
+  <li>Robotics and Instrumentation <strong>|</strong> <a href='https://nsom.no'>Autonomous Robots</a></li>
+  <li>Programming for Intelligent Robotics and Industrial systems <strong>|</strong> <a href='https://nsom.no'>ROS (C++, Python), TwinCAT (PLC-Structured Text)</a></li>
+</ul>avi
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Electro-hydraulic Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Fluid power, Electric drives, Motion control</a></li>
