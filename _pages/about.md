@@ -27,7 +27,7 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 </ul>
 <h6>🔬 <strong>Research:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Intelligent Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>Sense-Think-Act</a></li>
+  <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     <ul style="list-style-type: circle;">
       <li>Development of Digital Tools for Automated Design</li>
       <li>Development of Digital Twins</li>
