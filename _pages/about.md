@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<br>
+Bridging the gap between Industrial Mechatronics and Intelligent Systems research
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 <h6>🔬 <strong>Research area:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Intelligent Mechatronics</li>
+  <li>Intelligent Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>Sense-Think-Act</a></li>
     <ul style="list-style-type: circle;">
       <li>Automated Design of Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Simulation-based Optimization</a></li>
       <li>Development of Digital Twins for Optimal Operation<strong>|</strong> <a href='https://www.ros.org/'>Applied AI/ML</a></li>
