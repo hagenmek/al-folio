@@ -33,9 +33,8 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
       <li>Development of Digital Twins</li>
       <li>Machine Vision</li>
       <li>Perception</li>
-      <li>Real-time Localization and 3D Mapping</li>
-      <li>Motion Planning</li>
-      <li>Autonmous Navigation and Motion Control</li>
+      <li>Real-time Localization & 3D Mapping</li>
+      <li>Autonmous Navigation, Motion Plannin & Control</li>
       <li>Applied AI/ML</li>
       <li>Autonmous Diagnostics</li>
     </ul>
@@ -54,7 +53,6 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
   <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, ROS2, C++, MATLAB, Python, Rust</a></li>
   <li>Autonomous Systems <strong>|</strong> <a href='https://www.uia.no/en'>Sense-Think-Act</a></li>
   <li>Digital Twins</li>
-  <li>Machine Vision and Perception</li>
   <li>Sensor Fusion</li>
   <li>Applied AI/ML <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>      
   <li>Systems Engineering</li>               
