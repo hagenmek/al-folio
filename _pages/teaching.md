@@ -16,9 +16,7 @@ I am responsible for the following courses:
     Focusing on autonomous robots using <a href='https://se.mathworks.com/products/simulink.html'>MATLAB/Simulink</a> and <a href='https://www.ros.org/'>ROS</a>
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS516-G'>MAS516</a>: Project – Design of Industrial Mechatronic Systems</li>
     Focusing on model-based design in <a href='https://se.mathworks.com/products/simscape.html'>Simscape</a>, CAD design and FEM analysis in <a href='https://www.solidworks.com/'>Solidworks</a>
-
 </ul>
-
 and involved in the following courses:
 <ul style="list-style-type: square;">
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS418-G'>MAS418</a>: Programming for Intelligent Robotics and Industrial systems</li>
