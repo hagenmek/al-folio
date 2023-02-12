@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: My teaching involves about 20 ECTS at the <a href='https://www.uia.no/en/studieplaner/programme/MASTMEK'>Master's Programme in Mechatronics</a>, including administration, lectures, lab exercises, project organisation and supervision.
+description: 
 nav: true
 nav_order: 4
 ---
+My teaching involves about 20 ECTS at the <a href='https://www.uia.no/en/studieplaner/programme/MASTMEK'>Master's Programme in Mechatronics</a>, including administration, lectures, lab exercises, project organisation and supervision.
 <!---For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
