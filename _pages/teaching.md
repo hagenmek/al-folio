@@ -21,7 +21,7 @@ I am responsible for the following courses:
 and involved in the following courses:
 <ul style="list-style-type: square;">
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS418-G'>MAS418</a>: Programming for Intelligent Robotics and Industrial systems</li>
-    Responible for the second part: <strong>PLC Software Development</strong>, focusing on object-oriented structured text programming in <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'>TwinCAT</a>
+    Responible for the second part: <strong>PLC Software Development</strong>, focusing on <strong>Object-oriented Programming</strong> using <strong>Structured Text</strong> in <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'>TwinCAT</a>
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS513-G'>MAS513</a>: Project - Advanced Robotics</li>
-    Responsible for the projects including the <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'>UiAbot</a>: an <strong>Autonomous Mobile Manipulator platform</strong> that I have developed, focusing on autonmouse navigation and pick-and-place operaton using a self-trained object-detection system
+    Responsible for the projects including the <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'>UiAbot</a>: an <strong>Autonomous Mobile Manipulator</strong> platform that I have developed, focusing on Autonomous Navigation and <strong>Pick-and-place</strong> operaton using a self-trained <strong>Object-detection</strong> system
 </ul>
