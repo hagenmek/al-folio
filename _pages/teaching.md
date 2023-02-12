@@ -16,9 +16,9 @@ My teaching involves about 20 ECTS at the <a href='https://www.uia.no/en/studiep
 I am responsible for the following courses: 
 <ul style="list-style-type: square;">
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS514-G'>MAS514</a>: Robotics and Instrumentation</li>
-  <ul style="list-style-type: ;">
-    <li>Focusing on autonomous robots using <a href='https://se.mathworks.com/products/simulink.html'>MATLAB/Simulink and <a href='https://www.ros.org/'>ROS</a></li>
-  </ul>
+    <ul style="list-style-type: ;">
+        <li>Focusing on autonomous robots using <a href='https://se.mathworks.com/products/simulink.html'>MATLAB/Simulink and <a href='https://www.ros.org/'>ROS</a></li>
+    </ul>
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS516-G'>MAS516</a>: Project – Design of Industrial Mechatronic Systems</li>
   Focusing on model-based design in <a href='https://se.mathworks.com/products/simscape.html'>Simscape</a>, CAD design and FEM analysis in <a href='https://www.solidworks.com/'>Solidworks</a>
 </ul>
