@@ -41,7 +41,7 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 </ul>
 <h6>👨‍🏫 <strong>Teaching:</strong></h6> 
 <ul style="list-style-type: square;">
-  <li><a href='https://www.uia.no/en/studieplaner/programme/MASTMEK'>Master's Programme in Mechatronics</a></li>
+  <li><a href='https://hagenmek.github.io/al-folio/teaching/'>Master's Programme in Mechatronics</a></li>
     <ul style="list-style-type: circle;">
       <li>Introduction to Autonmous Robots</li>
       <li>Programming for Intelligent Robotics and Industrial systems</li>
