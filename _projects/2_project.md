@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UiAbot
-description: A autonmous mobile manipulator platform
+description: An autonmous mobile manipulator platform
 img: /assets/img/uiabot.png
 importance: 2
 category: Education
