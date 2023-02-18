@@ -3,12 +3,12 @@ layout: page
 title: The legacy of Dannevig
 description: Development of automated coastal surveillance
 img: assets/img/dannevig.jpg
-importance: 1
+importance: 2
 category: Research 
 ---
-The project will involve the development of a camera solution for the planned coastal observatory at Torungen lighthouse.
-
 <a href='https://www.uia.no/en/news/nok-6-million-to-develop-coastal-monitoring-in-southern-norway'>NOK 6 million to develop coastal monitoring in Southern Norway</a>
+
+The project will involve the development of a camera solution for the planned coastal observatory at Torungen lighthouse.
 
 We are hiring a: <a href='https://www.jobbnorge.no/en/available-jobs/job/239544/phd-research-fellow-in-mechatronics-machine-vision'>PhD Research Fellow in Mechatronics – Machine Vision</a>
 
