@@ -6,7 +6,7 @@ description: Completed and ongoing projects I am involved in.
 nav: true
 nav_order: 3
 display_categories: [Research, Education, Student, Hobby]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
