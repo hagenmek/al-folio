@@ -29,15 +29,11 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 <ul style="list-style-type: square;">
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     <ul style="list-style-type: circle;">
-      <li>Development of Digital Tools for Automated Design</li>
-      <li>Development of Digital Twins</li>
-      <li>Machine Vision</li>
-      <li>Perception</li>
-      <li>Real-time Localization & 3D Mapping</li>
-      <li>Autonmous Navigation, Motion Planning & Control</li>
-      <li>Applied AI/ML</li>
-      <li>Autonmous Diagnostics</li>
+      Development of Intelligent Methods for Designing and Operating Mechatronics Systems (Machines)
     </ul>
+  <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics</a></li>
+  <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/ingenioervitenskap/robotics-and-automation'>Robotics, Vision and Control</a></li>
+  <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Systems Engineering and Modelling</a></li>
 </ul>
 <h6>👨‍🏫 <strong>Teaching:</strong></h6> 
 <ul style="list-style-type: square;">
@@ -51,6 +47,14 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 </ul>  
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
+  <li>Development of Digital Tools for Automated Design</li>
+  <li>Development of Digital Twins</li>
+  <li>Machine Vision</li>
+  <li>Perception</li>
+  <li>Real-time Localization & 3D Mapping</li>
+  <li>Autonmous Navigation, Motion Planning & Control</li>
+  <li>Applied AI/ML</li>
+  <li>Autonmous Diagnostics</li>
   <li>Electro-hydraulic Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Fluid power, Electric drives, Motion control</a></li>
   <li>Robotics and Automation <strong>|</strong> <a href='https://www.ros.org/'>Mobile Robots and Manipulators</a></li>
   <li>Offshore Lifting and Load-handling Equipment <strong>|</strong> <a href='https://www.ros.org/'>3D Motion Compensation</a></li>
