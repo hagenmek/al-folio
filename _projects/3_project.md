@@ -1,7 +1,8 @@
 ---
 layout: page
 title: ALADDIN
-description: A cloud-based xxxx
+description: A Cloud based Tool for Automated Design and Optimal Operation of Intelligent Electro hydraulic
+Actuation Systems for Extreme Weather Conditions
 img: assets/img/12.jpg
 importance: 2
 category: Research 
@@ -15,8 +16,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: ALADDIN
+    description: A Cloud based Tool for Automated Design and Optimal Operation of Intelligent Electro hydraulic
+Actuation Systems for Extreme Weather Conditio
     img: /assets/img/uiabot.png
     ---
 

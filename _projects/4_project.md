@@ -1,10 +1,10 @@
 ---
 layout: page
-title: UiAbot
-description: An autonmous mobile manipulator robot platform
-img: /assets/img/uiabot.png
-importance: 3
-category: Education
+title: iMotion
+description: Intelligent Methods for Real time Mapping and Motion Planning for Autonomous Vessel to Vessel Load handling Operations
+img: assets/img/iMotion.png
+importance: 4
+category: Research 
 ---
 
 Every project has a beautiful feature showcase page.
@@ -15,9 +15,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: UiAbot
-    description: An autonmous mobile manipulator robot platform
-    img: /assets/img/uiabot.png
+    title: iMotion
+    description: Intelligent Methods for Real time Mapping and Motion Planning for Autonomous Vessel to Vessel Load handling Operations
+    img: /assets/img/iMotion.png
     ---
 
 <div class="row">
