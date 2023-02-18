@@ -28,7 +28,7 @@ Bridging the gap between Industrial Mechatronics and Intelligent Systems
 <h6>🔬 <strong>Research:</strong></h6>
 <ul style="list-style-type: square;">
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
-    Personal research area with focus on developing intelligent methods for designing and operating Mechatronics systems (machines).
+    Personal research area with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
   <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a></li>
     One of six Priority research centres at the University of Agder.
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/ingenioervitenskap/robotics-and-automation'>Robotics, Vision and Control</a></li>
