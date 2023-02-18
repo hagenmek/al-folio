@@ -1,10 +1,10 @@
 ---
 layout: page
-title: UiAbot
-description: An autonmous mobile manipulator platform
-img: /assets/img/uiabot.png
-importance: 3
-category: Education
+title: ALADDIN
+description: A cloud-based xxxx
+img: assets/img/12.jpg
+importance: 2
+category: Research 
 ---
 
 Every project has a beautiful feature showcase page.
