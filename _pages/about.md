@@ -36,6 +36,11 @@ Advancing Industrial Systems with Intelligent Digital Twins.
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Systems engineering and modelling</a></li>
     Research group at the Department of Information and communication technology.
 
+<details>
+<summary>Cool Dropdown</summary>
+blah blah blah blah you found me!
+</details>
+
 </ul>
 <h6>👨‍🏫 <strong>Teaching:</strong></h6> 
 <ul style="list-style-type: square;">
