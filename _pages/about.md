@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Advancing Industrial Systems with Intelligent Digital Twins.
-
-<details><summary> <h6>📝 <strong>Biography</strong></h6></summary>
+<h6>💼 <strong>Biography:</strong></h6>
+<details><summary> </summary>
 Daniel is a curious, ambitious, conscientious interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
 
 After completing compulsory military service, he gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate in automation mechanics (2009) and successfully defended his Ph.D. in 2020. 
