@@ -15,11 +15,11 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Bridging the gap between Offshore Mechatronics and Intelligent Systems.
+Advancing Industrial Systems with Intelligent Digital Twins.
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
-  <li>Senior Technical Advisor <strong>|</strong> <a href='https://motiontech.no'>MotionTech AS</a></li>
+  <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
 </ul>
 <h6>🍻 <strong>Society:</strong></h6>
 <ul style="list-style-type: square;">
@@ -49,23 +49,21 @@ Bridging the gap between Offshore Mechatronics and Intelligent Systems.
 </ul>  
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Development of Digital Tools for Automated Design</li>
-  <li>Development of Digital Twins</li>
+  <li>Digital Twins</li>
+  <li>Digital Tools for Automated Design</li>
   <li>Machine Vision</li>
   <li>Perception</li>
   <li>Real-time Localization & 3D Mapping</li>
   <li>Autonmous Navigation, Motion Planning & Control</li>
-  <li>Applied AI/ML</li>
-  <li>Autonmous Diagnostics</li>
+  <li>Applied AI/ML <strong>|</strong> <a href='https://www.ros.org/'>Physics Informed Machine Learning, YOLO object detection</a></li>
+  <li>Self-diagnostics</li>
   <li>Electro-hydraulic Actuation Systems <strong>|</strong> <a href='https://www.ros.org/'>Fluid power, Electric drives, Motion control</a></li>
   <li>Robotics and Automation <strong>|</strong> <a href='https://www.ros.org/'>Mobile Robots and Manipulators</a></li>
   <li>Offshore Lifting and Load-handling Equipment <strong>|</strong> <a href='https://www.ros.org/'>3D Motion Compensation</a></li>
   <li>Real-time Embedded Systems and Communications <strong>|</strong>  <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'> TwinCAT and EtherCAT</a></li>
   <li>Programming and Software Development <strong>|</strong> <a href='https://www.ros.org/'>PLC, ROS2, C++, MATLAB, Python, Rust</a></li>
   <li>Autonomous Systems <strong>|</strong> <a href='https://www.uia.no/en'>Sense-Think-Act</a></li>
-  <li>Digital Twins</li>
-  <li>Sensor Fusion</li>
-  <li>Applied AI/ML <strong>|</strong>  <a href='https://www.uia.no/en'>YOLO object detection</a></li>      
+  <li>Sensor Fusion</li> 
   <li>Systems Engineering</li>               
   <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</a></li>
   <li>Simulation-based Optimization</li>
