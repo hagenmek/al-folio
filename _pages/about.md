@@ -16,13 +16,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Advancing Industrial Systems with Intelligent Digital Twins.
-<h6>💼 <strong>Biography:</strong></h6>
-<details><summary> </summary>
+<h6>
+<details>
+<summary>📝 <strong>Biography</strong></summary>
+<br>
 Daniel is a curious, ambitious, conscientious interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
-
+<br>
 After completing compulsory military service, he gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate in automation mechanics (2009) and successfully defended his Ph.D. in 2020. 
-
-Before starting a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems worldwide, both in the test and commissioning phases and during operation. Between 2020 and 2022, before starting working full-time as an associate professor in Mechatronics, he worked as a senior R&D engineer responsible for the control systems of offshore lifting and handling equipment such as 3D compensated knuckle-boom cranes for offshore wind service vessels.</details>
+<br>
+Before starting a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems worldwide, both in the test and commissioning phases and during operation. Between 2020 and 2022, before starting working full-time as an associate professor in Mechatronics, he worked as a senior R&D engineer responsible for the control systems of offshore lifting and handling equipment such as 3D compensated knuckle-boom cranes for offshore wind service vessels.
+</details>
+</h6> 
 
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
