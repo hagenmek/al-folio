@@ -31,6 +31,9 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
+      <ul style="list-style-type: circle;">
+      <li>Head of <a href='https://motion-lab.no/'>Norwegian Motion Labratory</a></li>
+    </ul>
   <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
 </ul>
 <h6>🍻 <strong>Society:</strong></h6>
