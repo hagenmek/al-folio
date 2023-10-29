@@ -43,11 +43,14 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <h6>🔬 <strong>Research:</strong></h6>
 <ul style="list-style-type: square;">
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
-    Personal research area with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
+    A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
   <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a></li>
     One of six Priority research centres at the University of Agder.
-  <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/ingenioervitenskap/robotics-and-automation'>Robotics, Vision and Control</a></li>
-    Research group at the Department of Engineering sciences.
+    <ul style="list-style-type: circle;">
+      <li>Robotics, Vision and Control</li>
+      <li>Intelligent Monitoring</li>
+      <li>Machine Design</li>
+    </ul>
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Systems engineering and modelling</a></li>
     Research group at the Department of Information and communication technology.
 </ul>
@@ -82,11 +85,6 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
   <li>Model-based Design <strong>|</strong>  <a href='https://www.uia.no/en'>MATLAB/Simulink</a></li>
   <li>Simulation-based Optimization</li>
 </ul> 
-
-<!--- Daniel is a curious, ambitious, conscientious multidisciplinary engineer and a reserve officer with a passion for Mechatronics, innovation, R&D, and team leadership. After completing compulsory military service, he has gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate and successfully defended his Ph.D. degree in 2020. 
-
-Before starting on a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems throughout the world, both in test and commissioning phases and during operation. Between 2020 and 2022, before starting working full-time as an Associate Professor in Mechatronics, he worked as a senior R&D engineer responsible for the control systems of marine lifting and handling equipment such as 3D compensated knuckle-boom cranes. -->
-
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
