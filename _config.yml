@@ -113,7 +113,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Intelligent Mechatronics # blog_name will be displayed in your blog page
 blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A blog about my work dedicated to bridging the gap between Industrial Mechatronics and AI
+blog_description: A blog about my work dedicated to bridging the gap between Industrial Mechatronics and Intelligent Systems
 
 # Pagination
 pagination:
