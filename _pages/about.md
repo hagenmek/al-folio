@@ -29,7 +29,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <details><summary>💼 <strong>Work:</strong></summary>
 <br>
 <ul style="list-style-type: square; padding-left: 1.2em;">
-  <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
+  <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder (UiA)</a></li>
       <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Head of The Norwegian Motion Labratory (<a href='https://motion-lab.no/'>Motion-Lab</a>)</li>
       <li>Member of The Faculty's Research Committee <strong>|</strong> <a href='https://www.uia.no/en/about-uia/faculties/faculty-of-engineering-and-science'>Faculty of Engineering and Science</a></li>
@@ -52,12 +52,12 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <details><summary>🔬 <strong>Research:</strong></summary>
 <br>
 <ul style="list-style-type: square; padding-left: 1.2em;">
-Involved in several research groups and <a href='https://hagenmek.github.io/al-folio/projects/'>projects</a>.
+Involved in several research centres, groups, and <a href='https://hagenmek.github.io/al-folio/projects/'>projects</a>.
 <br>
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
-  <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a></li>
-    One of six Priority research centres at the University of Agder where I am involved in the following research groups:
+  <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a>Priority Research Centre</li>
+    One of six Priority research centres at UiA where I am involved in the following research groups:
     <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Robotics, Vision and Control</li>
       <li>Intelligent Monitoring</li>
