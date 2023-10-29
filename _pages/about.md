@@ -43,8 +43,9 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <ul style="list-style-type: square;">
   <li>Head of <a href='https://nsom.no'>The Norwegian Society of Mechatronics</a></li>
 </ul>
-<details>
+</details>
 </h6>
+---
 <h6>
 <details><summary>🔬 <strong>Research:</strong></summary>
 <ul style="list-style-type: square;">
