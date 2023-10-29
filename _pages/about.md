@@ -42,7 +42,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
   <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a></li>
-    One of six Priority research centres at the University of Agder.
+    One of six Priority research centres at the University of Agder where I am involved in the following research groups:
     <ul style="list-style-type: circle;">
       <li>Robotics, Vision and Control</li>
       <li>Intelligent Monitoring</li>
