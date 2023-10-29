@@ -15,10 +15,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Advancing Industrial Systems with Intelligent Digital Twins.
-<h6>
-<details>
-<summary>📝 <strong>Biography</strong></summary>
+Advancing Industrial Systems with Intelligent Digital Twins.<h6><details><summary>📝 <strong>Biography</strong></summary>
 <br>
 Daniel is a curious, ambitious, conscientious interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
 <br>
@@ -38,7 +35,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 </ul>
 <h6>🍻 <strong>Society:</strong></h6>
 <ul style="list-style-type: square;">
-  <li>Leader and Co-founder <strong>|</strong> <a href='https://nsom.no'>Norwegian Society of Mechatronics</a></li>
+  <li>Head of <a href='https://nsom.no'>The Norwegian Society of Mechatronics</a></li>
 </ul>
 <h6>🔬 <strong>Research:</strong></h6>
 <ul style="list-style-type: square;">
@@ -54,15 +51,12 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Systems engineering and modelling</a></li>
     Research group at the Department of Information and communication technology.
 </ul>
-<h6>👨‍🏫 <strong>Teaching:</strong></h6> 
+<h6>👨‍🏫 <strong><a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a>:</strong></h6> 
 <ul style="list-style-type: square;">
-  <li><a href='https://hagenmek.github.io/al-folio/teaching/'>Master's Programme in Mechatronics</a></li>
-    <ul style="list-style-type: circle;">
-      <li>Introduction to Autonmous Robots</li>
-      <li>Programming for Intelligent Robotics and Industrial systems</li>
-      <li>Design of Industrial Mechatronic Systems</li> 
-      <li>Advanced Robotics</li> 
-    </ul>
+  <li>Robotics and Instrumentation</li>
+  <li>Programming for Intelligent Robotics and Industrial systems</li>
+  <li>Design of Industrial Mechatronic Systems</li> 
+  <li>Advanced Robotics</li> 
 </ul>  
 <h6>🎒 <strong>Competencies and Interests:</strong></h6>
 <ul style="list-style-type: square;">
