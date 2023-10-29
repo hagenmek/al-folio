@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h6>
-<details><summary>Advancing Industrial Systems with Intelligent Digital Twins. <br> 📝 <strong>Biography</strong>:</summary>
+<details><summary>Advancing Industrial Systems with Intelligent Digital Twins. 📝 <strong>Biography</strong>:</summary>
 <br>
 Daniel is a curious, ambitious, conscientious interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
 <br>
