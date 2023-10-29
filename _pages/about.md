@@ -61,7 +61,8 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 </h6>
 ---
 <h6>
-<details><summary>👨‍🏫 <strong><a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a>:</strong></summary>
+<details><summary>👨‍🏫 <strong>Teaching:</strong></summary>
+Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a> the following Mechatronics courses:
 <ul style="list-style-type: square;">
   <li>Robotics and Instrumentation</li>
   <li>Programming for Intelligent Robotics and Industrial systems</li>
