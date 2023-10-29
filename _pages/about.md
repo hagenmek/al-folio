@@ -13,11 +13,11 @@ profile:
     <!---<p>📧 info@drhagen.science</p> -->
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page 📝
+social: true  # includes social icons at the bottom of the page 
 ---
 Advancing Industrial Systems with Intelligent Digital Twins.
 <h6>
-<details><summary><strong>Biography</strong>: </summary>
+<details><summary> <strong>Biography</strong>: </summary>
 <br>
 Daniel is a curious, ambitious, conscientious interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
 <br>
