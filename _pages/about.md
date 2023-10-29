@@ -43,7 +43,10 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <ul style="list-style-type: square;">
   <li>Head of <a href='https://nsom.no'>The Norwegian Society of Mechatronics</a></li>
 </ul>
-<h6>🔬 <strong>Research:</strong></h6>
+<details>
+</h6>
+<h6>
+<details><summary>🔬 <strong>Research:</strong></summary>
 <ul style="list-style-type: square;">
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
