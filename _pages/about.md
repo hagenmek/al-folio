@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle1: <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics Wizard</a> | <strong>Ph.D.</strong>
-<!--- subtitle1: Associate <strong>Professor</strong> in  <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics</a> at the <a href='https://www.uia.no/en'>University of Agder</a> -->
+subtitle1: <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics Wizard</a> | <strong>Ph.D.</strong> <br> Advancing Industrial Systems with Intelligent Digital Twins.
 
 profile:
   align: right
@@ -25,7 +24,7 @@ After completing compulsory military service, he gained relevant leadership expe
 Before starting a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems worldwide, both in the test and commissioning phases and during operation. Between 2020 and 2022, before starting working full-time as an associate professor in Mechatronics, he worked as a senior R&D engineer responsible for the control systems of offshore lifting and handling equipment such as 3D compensated knuckle-boom cranes for offshore wind service vessels.
 </details>
 </h6> 
-Advancing Industrial Systems with Intelligent Digital Twins.
+---
 <h6>💼 <strong>Work:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
