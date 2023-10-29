@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 <h6>
 <details><summary>📝 <strong>Biography</strong>: </summary>
 <br>
-Daniel is a curious, ambitious, conscientious interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
+Daniel is a curious, ambitious, conscientious skilled worker, interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
 <br>
 After completing compulsory military service, he gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate in automation mechanics (2009) and successfully defended his Ph.D. in 2020. 
 <br>
@@ -31,7 +31,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
       <ul style="list-style-type: circle;">
-      <li>Head of <a href='https://motion-lab.no/'>The Norwegian Motion Labratory</a></li>
+      <li>Head of The Norwegian Motion Labratory <a href='https://motion-lab.no/'>(Motion-Lab)</a></li>
       <li>Member of The Faculty's Research Committee <strong>|</strong> <a href='https://www.uia.no/en/about-uia/faculties/faculty-of-engineering-and-science'>Faculty of Engineering and Science</a></li>
     </ul>
   <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
@@ -43,7 +43,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <details><summary>🍻 <strong>Society:</strong></summary>
 <br>
 <ul style="list-style-type: square;">
-  <li>Head of <a href='https://nsom.no'>The Norwegian Society of Mechatronics</a></li>
+  <li>Head of The Norwegian Society of Mechatronics<a href='https://nsom.no'>(NSOM)</a></li>
 </ul>
 </details>
 </h6>
@@ -76,6 +76,18 @@ Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a>
   <li>Programming for Intelligent Robotics and Industrial systems</li>
   <li>Design of Industrial Mechatronic Systems</li> 
   <li>Advanced Robotics</li> 
+</ul>  
+</details>
+</h6> 
+---
+<h6>
+<details><summary>🪖 <strong>Other Positions:</strong></summary>
+<br>
+<ul style="list-style-type: square;">
+<li>Operation Officer <strong>|</strong> <a href='https://www.forsvaret.no/en/organisation/home-guard'>Agder and Rogaland (HV-08) Home Guard District</a></li>
+<li>Member of the Fund Board <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association</a></li>
+<li>Chairman of the Election Committee <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association - Department Lister</a></li>
+<li>Head of the Order's Chancellery <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association - Department Lister</a></li>
 </ul>  
 </details>
 </h6> 
