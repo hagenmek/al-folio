@@ -28,10 +28,10 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <h6>
 <details><summary>💼 <strong>Work:</strong></summary>
 <br>
-<ul style="list-style-type: square;">
+<ul style="list-style-type: square; padding-left: 1.2em;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
-      <ul style="list-style-type: circle;">
-      <li>Head of The Norwegian Motion Labratory <a href='https://motion-lab.no/'>(Motion-Lab)</a></li>
+      <ul style="list-style-type: circle; padding-left: 1.2em;">
+      <li>Head of The Norwegian Motion Labratory (<a href='https://motion-lab.no/'>Motion-Lab</a>)</li>
       <li>Member of The Faculty's Research Committee <strong>|</strong> <a href='https://www.uia.no/en/about-uia/faculties/faculty-of-engineering-and-science'>Faculty of Engineering and Science</a></li>
     </ul>
   <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
@@ -42,8 +42,8 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <h6>
 <details><summary>🍻 <strong>Society:</strong></summary>
 <br>
-<ul style="list-style-type: square;">
-  <li>Head of The Norwegian Society of Mechatronics<a href='https://nsom.no'>(NSOM)</a></li>
+<ul style="list-style-type: square; padding-left: 1.2em;">
+  <li>Head of The Norwegian Society of Mechatronics (<a href='https://nsom.no'>NSOM</a>)</li>
 </ul>
 </details>
 </h6>
@@ -51,13 +51,13 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <h6>
 <details><summary>🔬 <strong>Research:</strong></summary>
 <br>
-<ul style="list-style-type: square;">
+<ul style="list-style-type: square; padding-left: 1.2em;">
 Involved in several research groups and <a href='https://hagenmek.github.io/al-folio/projects/'>projects</a>.
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
   <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a></li>
     One of six Priority research centres at the University of Agder where I am involved in the following research groups:
-    <ul style="list-style-type: circle;">
+    <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Robotics, Vision and Control</li>
       <li>Intelligent Monitoring</li>
       <li>Machine Design</li>
@@ -85,7 +85,7 @@ Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>teaching</a>
 <details><summary>🪖 <strong>Other Positions:</strong></summary>
 <br>
 Reserve Officer in the Norwegian Armed Forces.
-<ul style="list-style-type: square;">
+<ul style="list-style-type: square; padding-left: 1.2em;">
 <li>Operation Officer <strong>|</strong> <a href='https://www.forsvaret.no/en/organisation/home-guard'>Agder and Rogaland (HV-08) Home Guard District</a></li>
 <li>Member of the Fund Board <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association</a></li>
 <li>Chairman of the Election Committee <strong>|</strong> <a href='https://www.nrof.no/lokale-sider/sorlandet/lister/'>Norwegian Reservist Association - Department Lister</a></li>
@@ -97,7 +97,7 @@ Reserve Officer in the Norwegian Armed Forces.
 <h6>
 <details><summary>🎒 <strong>Competencies and Interests:</strong></summary>
 <br>
-<ul style="list-style-type: square;">
+<ul style="list-style-type: square; padding-left: 1.2em;">
   <li>Digital Twins</li>
   <li>Digital Tools for Automated Design</li>
   <li>Machine Vision</li>

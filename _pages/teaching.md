@@ -9,7 +9,7 @@ nav_order: 4
 My teaching involves about 20 ECTS at the <a href='https://www.uia.no/en/studieplaner/programme/MASTMEK'>Master's Programme in Mechatronics</a>, including administration, lectures, lab exercises, project organisation and supervision.
 
 I am responsible for the following courses: 
-<ul style="list-style-type: square;">
+<ul style="list-style-type: square; padding-left: 1.2em;">
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS514-G'>MAS514</a>: <strong>Robotics and Instrumentation</strong></li>
     Introduction to Autonomous Robots using <a href='https://se.mathworks.com/products/simulink.html'>MATLAB/Simulink</a> and <a href='https://www.ros.org/'>ROS</a>.
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS516-G'>MAS516</a>: <strong>Project – Design of Industrial Mechatronic Systems</strong></li>
@@ -17,7 +17,7 @@ I am responsible for the following courses:
 </ul>
 
 I am also involved in the following courses:
-<ul style="list-style-type: square;">
+<ul style="list-style-type: square; padding-left: 1.2em;">
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS418-G'>MAS418</a>: <strong>Programming for Intelligent Robotics and Industrial systems</strong></li>
     Responsible  for the second part: PLC Software Development, focusing on Object-Oriented Programming with Structured Text using <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'>TwinCAT</a>.
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS513-G'>MAS513</a>: <strong>Project - Advanced Robotics</strong></li>
