@@ -35,6 +35,8 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
     </ul>
   <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
 </ul>
+</details>
+---
 </h6>
 <h6>🍻 <strong>Society:</strong></h6>
 <ul style="list-style-type: square;">
