@@ -56,7 +56,7 @@ Involved in several research centres, groups, and <a href='https://hagenmek.gith
 <br>
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
-  <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a>Priority Research Centre</li>
+  <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a> <strong>|</strong> Priority Research Centre</li>
     One of six Priority research centres at UiA where I am involved in the following research groups:
     <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Robotics, Vision and Control</li>
@@ -89,7 +89,7 @@ Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>teaching</a>
 Reserve Officer in the Norwegian Armed Forces.
 <br>
 <ul style="list-style-type: square; padding-left: 1.2em;">
-  <li>Operation Officer <strong>|</strong> <a href='https://www.forsvaret.no/en/organisation/home-guard'>Agder and Rogaland (HV-08) Home Guard District</a></li>
+  <li>Operation Officer <strong>|</strong> <a href='https://www.forsvaret.no/en/organisation/home-guard'>Agder and Rogaland Home Guard District (HV-08)</a></li>
   <li>Member of the Fund Board <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association</a></li>
   <li>Chairman of the Election Committee <strong>|</strong> <a href='https://www.nrof.no/lokale-sider/sorlandet/lister/'>Norwegian Reservist Association - Department Lister</a></li>
   <li>Head of the Order's Chancellery <strong>|</strong> <a href='https://www.nrof.no/lokale-sider/sorlandet/lister/'>Norwegian Reservist Association - Department Lister</a></li>

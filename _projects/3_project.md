@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ALADDIN
-description: A Cloud based Tool for Automated Design and Optimal Operation of Intelligent Electro hydraulic Actuation Systems for Extreme Weather Conditions
-img: assets/img/aladdin.png
+title: UiAbot Mini
+description: An autonmous mobile robot platform
+img: /assets/img/uiabot_mini.png
 importance: 3
-category: Research 
+category: Education
 ---
