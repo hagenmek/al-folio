@@ -27,6 +27,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 ---
 <h6>
 <details><summary>💼 <strong>Work:</strong></summary>
+<br>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
       <ul style="list-style-type: circle;">
@@ -40,6 +41,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 ---
 <h6>
 <details><summary>🍻 <strong>Society:</strong></summary>
+<br>
 <ul style="list-style-type: square;">
   <li>Head of <a href='https://nsom.no'>The Norwegian Society of Mechatronics</a></li>
 </ul>
@@ -48,6 +50,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 ---
 <h6>
 <details><summary>🔬 <strong>Research:</strong></summary>
+<br>
 <ul style="list-style-type: square;">
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Sense-Think-Act</li>
     A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
@@ -66,6 +69,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 ---
 <h6>
 <details><summary>👨‍🏫 <strong>Teaching:</strong></summary>
+<br>
 Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a> the following Mechatronics courses:
 <ul style="list-style-type: square;">
   <li>Robotics and Instrumentation</li>
@@ -78,6 +82,7 @@ Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a>
 ---
 <h6>
 <details><summary>🎒 <strong>Competencies and Interests:</strong></summary>
+<br>
 <ul style="list-style-type: square;">
   <li>Digital Twins</li>
   <li>Digital Tools for Automated Design</li>
