@@ -71,7 +71,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <details><summary>👨‍🏫 <strong>Teaching:</strong></summary>
 <br>
 Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a> the following Mechatronics courses:
-<ul style="list-style-type: square;">
+<ul style="list-style-type: square; padding-left: 0;">
   <li>Robotics and Instrumentation</li>
   <li>Programming for Intelligent Robotics and Industrial systems</li>
   <li>Design of Industrial Mechatronic Systems</li> 
@@ -86,8 +86,8 @@ Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>Teaching</a>
 <ul style="list-style-type: square;">
 <li>Operation Officer <strong>|</strong> <a href='https://www.forsvaret.no/en/organisation/home-guard'>Agder and Rogaland (HV-08) Home Guard District</a></li>
 <li>Member of the Fund Board <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association</a></li>
-<li>Chairman of the Election Committee <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association - Department Lister</a></li>
-<li>Head of the Order's Chancellery <strong>|</strong> <a href='https://www.nrof.no/'>Norwegian Reservist Association - Department Lister</a></li>
+<li>Chairman of the Election Committee <strong>|</strong> <a href='https://www.nrof.no/lokale-sider/sorlandet/lister/'>Norwegian Reservist Association - Department Lister</a></li>
+<li>Head of the Order's Chancellery <strong>|</strong> <a href='https://www.nrof.no/lokale-sider/sorlandet/lister/'>Norwegian Reservist Association - Department Lister</a></li>
 </ul>  
 </details>
 </h6> 
