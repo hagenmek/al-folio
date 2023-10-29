@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page 
 ---
 <h6>
-<details><summary> <strong>Biography</strong>: </summary>
+<details><summary>📝 <strong>Biography</strong>: </summary>
 <br>
 Daniel is a curious, ambitious, conscientious interdisciplinary engineer, educator, scientist, and reserve officer passionate about Intelligent Mechatronics, innovation, R&D, management, and leadership. 
 <br>
@@ -24,8 +24,9 @@ After completing compulsory military service, he gained relevant leadership expe
 Before starting a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems worldwide, both in the test and commissioning phases and during operation. Between 2020 and 2022, before starting working full-time as an associate professor in Mechatronics, he worked as a senior R&D engineer responsible for the control systems of offshore lifting and handling equipment such as 3D compensated knuckle-boom cranes for offshore wind service vessels.
 </details>
 </h6> 
---
-<h6>💼 <strong>Work:</strong></h6>
+---
+<h6>
+<details><summary>💼 <strong>Work:</strong></summary>
 <ul style="list-style-type: square;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder</a></li>
       <ul style="list-style-type: circle;">
@@ -34,6 +35,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
     </ul>
   <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
 </ul>
+</h6>
 <h6>🍻 <strong>Society:</strong></h6>
 <ul style="list-style-type: square;">
   <li>Head of <a href='https://nsom.no'>The Norwegian Society of Mechatronics</a></li>
