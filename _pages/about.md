@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle1: <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics Wizard</a> | <strong>Ph.D.</strong> 
+subtitle1: <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics Wizard</a> 🧙 | <strong>Ph.D.</strong> 
 subtitle2: Advancing Industrial Systems with Intelligent Digital Twins.
 profile:
   align: right
