@@ -72,7 +72,7 @@ Involved in several research centres, groups, and <a href='https://hagenmek.gith
 <h6>
 <details><summary>👨‍🏫 <strong>Teaching:</strong></summary>
 <br>
-Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>teaching</a> the following Mechatronics courses:
+Involved in <a href='https://hagenmek.github.io/al-folio/teaching/'>teaching</a> the following master's courses in Mechatronics:
 <br>
 <ul style="list-style-type: square; padding-left: 1.2em;">
   <li>Robotics and Instrumentation</li>
