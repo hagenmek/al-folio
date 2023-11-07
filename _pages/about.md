@@ -64,12 +64,11 @@ Involved in several research centres, groups, and <a href='https://hagenmek.gith
       <li>Intelligent Monitoring</li>
       <li>Machine Design</li>
     </ul>
-</ul>    
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Centre for Artificial Intelligence Research (CAIR)</a> <strong>|</strong> Priority Research Centre</li>
-    One of six Priority research centres at UiA focusing on pushing the frontier of AI research.
-</ul>    
-<li><a href='https://cair.uia.no/'>Systems engineering and modelling</a></li>
+    One of six Priority research centres at UiA focusing on pushing the frontier of AI research. 
+  <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Systems engineering and modelling</a></li>
     Research group at the Department of Information and communication technology.
+</ul>
 </details>
 </h6>
 ---
