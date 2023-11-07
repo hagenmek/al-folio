@@ -60,6 +60,7 @@ Involved in several research centres, groups, and <a href='https://hagenmek.gith
     One of six Priority research centres at UiA where I am involved in the following research groups:
     <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Robotics, Vision and Control</li>
+      <li>Offshore Mechatronics</li>
       <li>Intelligent Monitoring</li>
       <li>Machine Design</li>
     </ul>
