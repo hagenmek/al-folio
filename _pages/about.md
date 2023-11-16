@@ -58,7 +58,7 @@ Today, alongside his full-time role as an Associate Professor in Mechatronics an
 Involved in several research centres, groups, and <a href='https://hagenmek.github.io/al-folio/projects/'>projects</a>.
 <br>
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Research collaboration</li>
-    A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
+    A research collaboration between experts in Mechatronics and AI with a focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
   <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a> <strong>|</strong> Priority Research Centre</li>
   TRCM aims to contribute to the competitiveness of the Norwegian industry through the following research groups:
     <ul style="list-style-type: circle; padding-left: 1.2em;">
