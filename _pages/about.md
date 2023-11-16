@@ -31,7 +31,7 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <ul style="list-style-type: square; padding-left: 1.2em;">
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder (UiA)</a></li>
       <ul style="list-style-type: circle; padding-left: 1.2em;">
-      <li>Head of The Norwegian Motion Labratory (<a href='https://motion-lab.no/'>MotionLab</a>)</li>
+      <li>Head of The Norwegian Motion Laboratory (<a href='https://motion-lab.no/'>MotionLab</a>)</li>
       <li>Member of The Faculty's Research Committee <strong>|</strong> <a href='https://www.uia.no/en/about-uia/faculties/faculty-of-engineering-and-science'>Faculty of Engineering and Science</a></li>
     </ul>
   <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
