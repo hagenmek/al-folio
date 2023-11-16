@@ -57,17 +57,18 @@ Involved in several research centres, groups, and <a href='https://hagenmek.gith
   <li><a href='https://hagenmek.github.io/al-folio/blog/'>Intelligent Mechatronics</a> <strong>|</strong> Research collaboration</li>
     A research collaboration between experts in Mechatronics and AI (<a href='https://cair.uia.no/'>CAIR - Center for Artificial Intelligence Research</a>) with focus on developing intelligent methods for designing and operating Industrial Mechatronics systems (machines).
   <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a> <strong>|</strong> Priority Research Centre</li>
-    One of six Priority research centres at UiA where I am involved in the following research groups:
+  TRCM aims to contribute to the competitiveness of the Norwegian industry through the following research groups:
     <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Robotics, Vision and Control</li>
       <li>Offshore Mechatronics</li>
       <li>Intelligent Monitoring</li>
       <li>Machine Design</li>
+      <li>Biomechatronics and Collaborative Robotics</li>
     </ul>
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Centre for Artificial Intelligence Research (CAIR)</a> <strong>|</strong> Priority Research Centre</li>
-    One of six Priority research centres at UiA focusing on pushing the frontier of AI research. 
+    CAIR focuses on pushing the frontier of AI research with Green and Democratic AI for all. 
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Systems engineering and modelling</a> <strong>|</strong> Research group </li>
-    Research group at the Department of Information and communication technology.
+    Research group at the Department of Information and Communication Technology.
 </ul>
 </details>
 </h6>
