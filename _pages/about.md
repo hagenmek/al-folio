@@ -21,7 +21,9 @@ Daniel is a curious, ambitious, conscientious skilled worker, interdisciplinary 
 <br>
 After completing compulsory military service, he gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate in automation mechanics (2009) and successfully defended his Ph.D. in 2020. 
 <br>
-Before starting a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems worldwide, both in the test and commissioning phases and during operation. Between 2020 and 2022 he worked as a senior R&D engineer responsible for the control systems of offshore lifting and handling equipment such as 3D compensated knuckle-boom cranes for offshore wind service vessels. Today, alongside his full-time role as an Associate Professor in Mechatronics and Head of the Norwegian Motion Laboratory at UiA, he also holds a part-time position as a Chief Scientist, dedicated to empowering industries through the implementation of intelligent digital twins.
+Before starting a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems worldwide, both in the test and commissioning phases and during operation. Between 2020 and 2022 he worked as a senior R&D engineer responsible for the control systems of offshore lifting and handling equipment such as 3D compensated knuckle-boom cranes for offshore wind service vessels. 
+<br>
+Today, alongside his full-time role as an Associate Professor in Mechatronics and Head of the Norwegian Motion Laboratory at UiA, he also holds a part-time position as a Chief Scientist, dedicated to empowering industries through the implementation of intelligent digital twins.
 </details>
 </h6> 
 ---
@@ -29,11 +31,11 @@ Before starting a joint Ph.D. education in 2016, he worked for two years with of
 <details><summary>💼 <strong>Work:</strong></summary>
 <br>
 <ul style="list-style-type: square; padding-left: 1.2em;">
-  <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder (UiA)</a></li>
+  <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder (UiA), Faculty of Engineering and Science</a></li>
       <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Head of The Norwegian Motion Laboratory (<a href='https://motion-lab.no/'>MotionLab</a>)</li> 
-      <li>Member of the Faculty Board (2024-2027) <strong>|</strong> <a href='https://www.uia.no/en/about-uia/faculties/faculty-of-engineering-and-science'>Faculty of Engineering and Science</a></li>  
-      <li>Member of The Faculty's Research Committee <strong>|</strong> <a href='https://www.uia.no/en/about-uia/faculties/faculty-of-engineering-and-science'>Faculty of Engineering and Science</a></li>
+      <li>Employee elected member of the Faculty Board (2024-2027)</li>  
+      <li>Member of The Faculty's Research Committee</li>
     </ul>
   <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
 </ul>
