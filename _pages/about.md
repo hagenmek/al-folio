@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle1: <a href='https://en.wikipedia.org/wiki/Mechatronics_engineering'>Mechatronics Wizard</a> 🧙 <strong>Ph.D.</strong> 
-subtitle2:  Pioneering Sustainable Solutions with Intelligent Mechatronics.
+subtitle2:  Pioneering Sustainable Solutions with Intelligent Mechatronics
 profile:
   align: right
   image: prof_pic.png
