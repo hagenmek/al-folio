@@ -37,7 +37,6 @@ Today, alongside his full-time role as an Associate Professor in Mechatronics an
       <li>Employee elected member of the Faculty Board (2024-2027)</li>  
       <li>Member of The Faculty's Research Committee</li>
     </ul>
-  <li>Chief Scientist <strong>|</strong> <a href='https://twilligent.io/'>Twilligent AS</a></li>
 </ul>
 </details>
 </h6>
