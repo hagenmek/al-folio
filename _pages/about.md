@@ -22,6 +22,8 @@ Daniel is a curious, ambitious, conscientious skilled worker, interdisciplinary 
 After completing compulsory military service, he gained relevant leadership experience through his career and courses in the Norwegian Armed Forces. Daniel graduated with a Master’s degree in 2014 based on his trade certificate in automation mechanics (2009) and successfully defended his Ph.D. in 2020. 
 <br>
 Before starting a joint Ph.D. education in 2016, he worked for two years with offshore drilling equipment control systems worldwide, both in the test and commissioning phases and during operation. Between 2020 and 2022 he worked as a senior R&D engineer responsible for the control systems of offshore lifting and handling equipment such as 3D compensated knuckle-boom cranes for offshore wind service vessels. 
+<br>
+Alongside his full-time role as an Associate Professor in Mechatronics he is also the Head of the Norwegian Motion Laboratory (Motion Lab) at UiA and involved in a number of board and committee positions.
 </details>
 </h6> 
 ---
