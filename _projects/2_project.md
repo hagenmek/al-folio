@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UiAbot
-description: An autonmous mobile manipulator robot platform
+description: A Versatile Autonomous Mobile Robot Platform for Research and Education
 img: /assets/img/uiabot.png
 importance: 2
 category: Education
