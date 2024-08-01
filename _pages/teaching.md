@@ -21,5 +21,5 @@ I am also involved in the following courses:
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS418-G'>MAS418</a>: <strong>Programming for Intelligent Robotics and Industrial systems</strong></li>
     Responsible  for the second part: PLC Software Development, focusing on Object-Oriented Programming with Structured Text using <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'>TwinCAT</a>.
   <li><a href='https://www.uia.no/en/studieplaner/topic/MAS513-G'>MAS513</a>: <strong>Project - Advanced Robotics</strong></li>
-    Responsible for the projects including the <a href='https://www.beckhoff.com/en-en/products/automation/twincat/'>UiAbot</a>: an Autonomous Mobile Manipulator platform that I have developed, focusing on Autonomous Navigation and Pick and Place using self-trained Object Detection.
+    Responsible for the projects including the <a href='https://hagenmek.github.io/al-folio/projects/2_project/'>UiAbot</a>: an Autonomous Mobile Manipulator platform that I have developed, focusing on Autonomous Navigation and Pick and Place using self-trained Object Detection.
 </ul>
