@@ -39,6 +39,7 @@ Alongside his full-time role as an Associate Professor in Mechatronics he is als
       <li>Employee elected member of the Faculty Board (2024-2027)</li>  
       <li>Member of the Faculty's Research Committee</li>
     </ul>
+  <li>Senior System Arcitect (part-time) <strong>|</strong> <a href='https://assure.as/'>Assure AS</a></li>
 </ul>
 </details>
 </h6>
