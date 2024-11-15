@@ -48,7 +48,7 @@ Alongside his full-time role as an Associate Professor in Mechatronics he is als
 <details><summary>🍻 <strong>Society:</strong></summary>
 <br>
 <ul style="list-style-type: square; padding-left: 1.2em;">
-  <li>Head of The Norwegian Society of Mechatronics (<a href='https://nsom.no'>NSOM</a>)</li>
+  <li>Head of the Norwegian Society of Mechatronics (<a href='https://nsom.no'>NSOM</a>)</li>
 </ul>
 </details>
 </h6>
