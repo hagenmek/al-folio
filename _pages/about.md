@@ -34,7 +34,7 @@ Alongside his full-time role as an Associate Professor in Mechatronics he is als
   <li>Associate Professor in Mechatronics <strong>|</strong> <a href='https://www.uia.no/kk/profil/danielh'>University of Agder (UiA), Faculty of Engineering and Science</a></li>
       <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Head of the Intelligent Mechatronics research group (<a href='https://itron.no/'>iTron</a>)</li> 
-      <li>Head of the Norwegian Motion Laboratory (<a href='https://motion-lab.no/'>MotionLab</a>)</li> 
+      <li>Head of the Norwegian Motion Laboratory (<a href='https://motion-lab.no/'>UiA Motion Lab</a>)</li> 
       <li>Ambassodor of <a href='https://www.uia.no/english/about-uia/centres-and-networks/uia-nyskaping/index.html'>UiA Nyskaping</a> - innovation support service </li> 
       <li>Employee elected member of the Faculty Board (2024-2027)</li>  
       <li>Member of the Faculty's Research Committee</li>
