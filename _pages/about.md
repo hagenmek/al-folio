@@ -59,19 +59,26 @@ Alongside his full-time role as an Associate Professor in Mechatronics he is als
 <ul style="list-style-type: square; padding-left: 1.2em;">
 Involved in several research centres, groups, and <a href='https://hagenmek.github.io/al-folio/projects/'>projects</a>.
 <br>
-  <li><a href='[https://hagenmek.github.io/al-folio/blog/](https://itron.no/)'>Intelligent Mechatronics</a> <strong>|</strong> Research collaboration</li>
+  <li><a href='https://itron.no/'>Intelligent Mechatronics</a> <strong>|</strong> Research group </li>
     Advancing Intelligent Methods for Efficient Design and Sustainable Operation.
   <li><a href='https://www.uia.no/en/research/priority-research-centres/top-research-centre-mechatronics-trcm'>Top Research Centre Mechatronics (TRCM)</a> <strong>|</strong> Priority Research Centre</li>
   TRCM aims to contribute to the competitiveness of the Norwegian industry through the following research groups:
     <ul style="list-style-type: circle; padding-left: 1.2em;">
       <li>Robotics, Vision and Control</li>
-      <li>Offshore Mechatronics</li>
+      <li>Offshore Energy</li>
       <li>Intelligent Monitoring</li>
       <li>Machine Design</li>
       <li>Biomechatronics and Collaborative Robotics</li>
     </ul>
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Centre for Artificial Intelligence Research (CAIR)</a> <strong>|</strong> Priority Research Centre</li>
-    CAIR focuses on pushing the frontier of AI research with Green and Democratic AI for all. 
+    CAIR focuses on pushing the frontier of AI research with Green and Democratic AI for all through the following research groups:
+    <ul style="list-style-type: circle; padding-left: 1.2em;">
+      <li>Tsetlin Machine</li>
+      <li>Applied AI</li>
+      <li>Autonomous Cyber-Physical Systems (ACPS) </li>
+      <li>AI in Remote Sensing (AIRS)</li>
+      <li>Reinforcement Learning</li>
+    </ul>
   <li><a href='https://www.uia.no/en/research/teknologi-og-realfag/systems-engineering-and-modelling'>Systems engineering and modelling</a> <strong>|</strong> Research group </li>
     Research group at the Department of Information and Communication Technology.
 </ul>
